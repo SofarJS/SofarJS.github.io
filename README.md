@@ -14,3 +14,4 @@ npm run generate
 npm run g
 // Open the index.html file to view.
 ```
+> Special thanks to [jasonlong](https://github.com/jasonlong) for the github page theme.
