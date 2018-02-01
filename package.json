@@ -1,0 +1,29 @@
+{
+  "name": "sofar.github.io",
+  "version": "1.0.0",
+  "description": "markdown github page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "generate": "node generate.js",
+    "g": "node generate.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SofarJS/SofarJS.github.io.git"
+  },
+  "keywords": [
+    "Mr.Sofar"
+  ],
+  "author": "Mr.Sofar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SofarJS/SofarJS.github.io/issues"
+  },
+  "homepage": "https://github.com/SofarJS/SofarJS.github.io#readme",
+  "dependencies": {
+    "marked": "^0.3.12",
+    "util": "^0.10.3",
+    "yamljs": "^0.3.0"
+  }
+}
